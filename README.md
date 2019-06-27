@@ -8,7 +8,7 @@ This repo is for Open Images 2019
 1. pull을 통하여 코드 업데이트.
 1. Integration 폴더에는 최종적인 detection 모델이 개발될 예정.
 1. 파이참 기준 commit : ctrl+k, push : ctrl+shift+k
-
+1. 제출 양식은 csv. (sample_submission.csv 참고.)
 
 ## Paper Review List
 1. TBD
@@ -21,9 +21,8 @@ This repo is for Open Images 2019
 스터디 방향 논의
 
 2. 19.07.01  
-TBD
+간단한 딥러닝 리뷰 및 툴 사용법 공지
 
-python 3.7  
-pytorch >=1.0
+
 
  
