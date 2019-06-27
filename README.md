@@ -9,6 +9,7 @@ This repo is for Open Images 2019
 1. Integration 폴더에는 최종적인 detection 모델이 개발될 예정.
 1. 파이참 기준 commit : ctrl+k, push : ctrl+shift+k
 1. 제출 양식은 csv. (sample_submission.csv 참고.)
+1. 주석은 상세히 달며, 필요에 따라 TODO, HACK, XXX, FIXME 키워드를 이용하여 달 것. 
 
 ## Paper Review List
 1. TBD
