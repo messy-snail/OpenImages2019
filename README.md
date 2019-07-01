@@ -12,9 +12,14 @@ This repo is for Open Images 2019
 1. 주석은 상세히 달며, 필요에 따라 TODO, HACK, XXX, FIXME 키워드를 이용하여 달 것. 
 
 ## Paper Review List
-1. TBD
-1. TBD
-1. TBD
+1. Faster r-cnn: Towards real-time object detection with region proposal networks, NIPS2015  
+2. R-fcn: Object detection via region-based fully convolutional networks  
+3. Focal loss for dense object detection  
+4. Feature pyramid networks for object detection  
+5. Mask r-cnn  
+6. Hybrid Task Cascade for Instance Segmentation  
+7. Scale-Aware Trident Networks for Object Detection  
+
 
 
 ## 주차별 스터디
@@ -22,7 +27,11 @@ This repo is for Open Images 2019
 스터디 방향 논의
 
 2. 19.07.01  
-간단한 딥러닝 리뷰 및 툴 사용법 공지
+간단한 딥러닝 리뷰 및 툴 사용법 공지.
+7개의 리뷰 논문 선정.
+
+2. 19.07.15    
+TBD
 
 
 
